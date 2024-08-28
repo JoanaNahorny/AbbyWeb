@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Abby",
+    "\\Abby\\AbbyWeb",
+    "\\Abby\\AbbyWeb\\Pages",
+    "\\Abby\\AbbyWeb\\Pages\\Shared",
+    "\\Abby\\AbbyWeb\\Properties",
+    "\\Abby\\AbbyWeb\\wwwroot"
+  ],
+  "SelectedNode": "\\Abby\\AbbyWeb\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}
