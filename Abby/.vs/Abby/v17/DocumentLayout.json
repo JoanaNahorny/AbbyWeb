@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\estudos\\AbbyWeb\\Abby\\",
+  "WorkspaceRootPath": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\estudos\\abbyweb\\abby\\abbyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|c:\\users\\joana\\source\\repos\\abbyweb\\abby\\abbyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49FE4992-5707-4391-9F91-E1EFA2C532DA}|AbbyWeb\\AbbyWeb.csproj|solutionrelative:abbyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\.vs\\Abby\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\Abby\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,14 +73,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\estudos\\AbbyWeb\\Abby\\AbbyWeb\\Program.cs",
-              "RelativeDocumentMoniker": "AbbyWeb\\Program.cs",
-              "ToolTip": "C:\\estudos\\AbbyWeb\\Abby\\AbbyWeb\\Program.cs",
-              "RelativeToolTip": "AbbyWeb\\Program.cs",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "AbbyWeb\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Model\\Category.cs",
+              "RelativeToolTip": "AbbyWeb\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T23:30:21.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AbbyWeb\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "AbbyWeb\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T23:24:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AbbyWeb\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AbbyWeb\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T23:24:06.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "AbbyWeb\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Error.cshtml",
+              "RelativeToolTip": "AbbyWeb\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T23:23:23.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AbbyWeb\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "AbbyWeb\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T23:23:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AbbyWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AbbyWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T23:20:13.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "AbbyWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\appsettings.json",
+              "RelativeToolTip": "AbbyWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T22:47:56.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AbbyWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AbbyWeb\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T22:45:50.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AbbyWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\AbbyWeb\\Program.cs",
+              "RelativeToolTip": "AbbyWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T21:58:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "applicationhost.config",
+              "DocumentMoniker": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\.vs\\Abby\\config\\applicationhost.config",
+              "RelativeDocumentMoniker": ".vs\\Abby\\config\\applicationhost.config",
+              "ToolTip": "C:\\Users\\Joana\\source\\repos\\AbbyWeb\\Abby\\.vs\\Abby\\config\\applicationhost.config",
+              "RelativeToolTip": ".vs\\Abby\\config\\applicationhost.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-01T00:36:42.625Z",
               "EditorCaption": ""
             }
           ]
